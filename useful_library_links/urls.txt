@@ -1,0 +1,5 @@
+For timing (disables garbage collector):
+https://docs.python.org/3/library/timeit.html
+
+For decorators tutorial:
+https://realpython.com/primer-on-python-decorators/
